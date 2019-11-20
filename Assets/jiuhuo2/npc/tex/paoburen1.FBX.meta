@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 864cf7f1f6678434d95c45e300426ba4
+timeCreated: 1493187142
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: Chest
+    100004: duanku
+    100006: Foot_L
+    100008: Foot_R
+    100010: Hand_L
+    100012: Hand_R
+    100014: Head
+    100016: Hip
+    100018: Hips
+    100020: IK Chain001
+    100022: IK Chain002
+    100024: IK Chain004
+    100026: Index_L01
+    100028: Index_L02
+    100030: Index_L03
+    100032: Index_L04
+    100034: Index_R01
+    100036: Index_R02
+    100038: Index_R03
+    100040: Index_R04
+    100042: leg_L
+    100044: leg_R
+    100046: Little_L01
+    100048: Little_L02
+    100050: Little_L03
+    100052: Little_L04
+    100054: Little_R01
+    100056: Little_R02
+    100058: Little_R03
+    100060: Little_R04
+    100062: Lower_arm_L
+    100064: Lower_arm_R
+    100066: Lower_leg_L
+    100068: Lower_leg_R
+    100070: Middle_L01
+    100072: Middle_L02
+    100074: Middle_L03
+    100076: Middle_L04
+    100078: Middle_R01
+    100080: Middle_R02
+    100082: Middle_R03
+    100084: Middle_R04
+    100086: Neck
+    100088: //RootNode
+    100090: Plane001
+    100092: Ring_L01
+    100094: Ring_L02
+    100096: Ring_L03
+    100098: Ring_L04
+    100100: Ring_R01
+    100102: Ring_R02
+    100104: Ring_R03
+    100106: Ring_R04
+    100108: Shoulder_L
+    100110: Shoulder_R
+    100112: shouzhuo01
+    100114: shouzhuo02
+    100116: Spine01
+    100118: Spine02
+    100120: Spine03
+    100122: Thumb_L01
+    100124: Thumb_L02
+    100126: Thumb_L03
+    100128: Thumb_L04
+    100130: Thumb_R01
+    100132: Thumb_R02
+    100134: Thumb_R03
+    100136: Thumb_R04
+    100138: Toes_L01
+    100140: Toes_L02
+    100142: Toes_R01
+    100144: Toes_R02
+    100146: toufa
+    100148: Upper_Arm_L
+    100150: Upper_Arm_R
+    100152: Upper_leg_L
+    100154: Upper_leg_R
+    100156: woman05
+    400000: body
+    400002: Chest
+    400004: duanku
+    400006: Foot_L
+    400008: Foot_R
+    400010: Hand_L
+    400012: Hand_R
+    400014: Head
+    400016: Hip
+    400018: Hips
+    400020: IK Chain001
+    400022: IK Chain002
+    400024: IK Chain004
+    400026: Index_L01
+    400028: Index_L02
+    400030: Index_L03
+    400032: Index_L04
+    400034: Index_R01
+    400036: Index_R02
+    400038: Index_R03
+    400040: Index_R04
+    400042: leg_L
+    400044: leg_R
+    400046: Little_L01
+    400048: Little_L02
+    400050: Little_L03
+    400052: Little_L04
+    400054: Little_R01
+    400056: Little_R02
+    400058: Little_R03
+    400060: Little_R04
+    400062: Lower_arm_L
+    400064: Lower_arm_R
+    400066: Lower_leg_L
+    400068: Lower_leg_R
+    400070: Middle_L01
+    400072: Middle_L02
+    400074: Middle_L03
+    400076: Middle_L04
+    400078: Middle_R01
+    400080: Middle_R02
+    400082: Middle_R03
+    400084: Middle_R04
+    400086: Neck
+    400088: //RootNode
+    400090: Plane001
+    400092: Ring_L01
+    400094: Ring_L02
+    400096: Ring_L03
+    400098: Ring_L04
+    400100: Ring_R01
+    400102: Ring_R02
+    400104: Ring_R03
+    400106: Ring_R04
+    400108: Shoulder_L
+    400110: Shoulder_R
+    400112: shouzhuo01
+    400114: shouzhuo02
+    400116: Spine01
+    400118: Spine02
+    400120: Spine03
+    400122: Thumb_L01
+    400124: Thumb_L02
+    400126: Thumb_L03
+    400128: Thumb_L04
+    400130: Thumb_R01
+    400132: Thumb_R02
+    400134: Thumb_R03
+    400136: Thumb_R04
+    400138: Toes_L01
+    400140: Toes_L02
+    400142: Toes_R01
+    400144: Toes_R02
+    400146: toufa
+    400148: Upper_Arm_L
+    400150: Upper_Arm_R
+    400152: Upper_leg_L
+    400154: Upper_leg_R
+    400156: woman05
+    4300000: body
+    4300002: Plane001
+    4300004: toufa
+    4300006: shouzhuo01
+    4300008: shouzhuo02
+    4300010: leg_R
+    4300012: leg_L
+    4300014: duanku
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+    13700002: duanku
+    13700004: leg_L
+    13700006: leg_R
+    13700008: Plane001
+    13700010: shouzhuo01
+    13700012: shouzhuo02
+    13700014: toufa
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: body/Plane001
+        weight: 1
+      - path: duanku
+        weight: 1
+      - path: IK Chain001
+        weight: 1
+      - path: IK Chain002
+        weight: 1
+      - path: IK Chain004
+        weight: 1
+      - path: leg_L
+        weight: 1
+      - path: leg_R
+        weight: 1
+      - path: shouzhuo01
+        weight: 1
+      - path: shouzhuo02
+        weight: 1
+      - path: toufa
+        weight: 1
+      - path: woman05
+        weight: 1
+      - path: woman05/Hips
+        weight: 1
+      - path: woman05/Hips/Hip
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Neck
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Neck/Head
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Index_L01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Index_L01/Index_L02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Index_L01/Index_L02/Index_L03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Index_L01/Index_L02/Index_L03/Index_L04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Little_L01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Middle_L01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Middle_L01/Middle_L02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Middle_L01/Middle_L02/Middle_L03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Middle_L01/Middle_L02/Middle_L03/Middle_L04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Ring_L01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Ring_L01/Ring_L02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Ring_L01/Ring_L02/Ring_L03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Ring_L01/Ring_L02/Ring_L03/Ring_L04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Thumb_L01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Thumb_L01/Thumb_L02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Thumb_L01/Thumb_L02/Thumb_L03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_L/Upper_Arm_L/Lower_arm_L/Hand_L/Thumb_L01/Thumb_L02/Thumb_L03/Thumb_L04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Index_R01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Index_R01/Index_R02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Index_R01/Index_R02/Index_R03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Index_R01/Index_R02/Index_R03/Index_R04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Little_R01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Little_R01/Little_R02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Little_R01/Little_R02/Little_R03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Little_R01/Little_R02/Little_R03/Little_R04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Middle_R01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Middle_R01/Middle_R02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Middle_R01/Middle_R02/Middle_R03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Middle_R01/Middle_R02/Middle_R03/Middle_R04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Ring_R01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Ring_R01/Ring_R02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Ring_R01/Ring_R02/Ring_R03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Ring_R01/Ring_R02/Ring_R03/Ring_R04
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Thumb_R01
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Thumb_R01/Thumb_R02
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Thumb_R01/Thumb_R02/Thumb_R03
+        weight: 1
+      - path: woman05/Hips/Hip/Spine01/Spine02/Spine03/Chest/Shoulder_R/Upper_Arm_R/Lower_arm_R/Hand_R/Thumb_R01/Thumb_R02/Thumb_R03/Thumb_R04
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_L
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_L/Lower_leg_L
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_L/Lower_leg_L/Foot_L
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_L/Lower_leg_L/Foot_L/Toes_L01
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_L/Lower_leg_L/Foot_L/Toes_L01/Toes_L02
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_R
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_R/Lower_leg_R
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_R/Lower_leg_R/Foot_R
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_R/Lower_leg_R/Foot_R/Toes_R01
+        weight: 1
+      - path: woman05/Hips/Hip/Upper_leg_R/Lower_leg_R/Foot_R/Toes_R01/Toes_R02
+        weight: 1
+      - path: woman05/Little_L02
+        weight: 1
+      - path: woman05/Little_L02/Little_L03
+        weight: 1
+      - path: woman05/Little_L02/Little_L03/Little_L04
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: 0ed936f0c8803a9429c640af8c853c40
+timeCreated: 1493200904
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 15357-374-754
+    100002: 5-428
+    100004: AM109_027_00
+    100006: Box037
+    100008: ffdd00
+    100010: ffdd01
+    100012: ffdd02
+    100014: gy01
+    100016: gy02
+    100018: gy103
+    100020: gy106
+    100022: gy11
+    100024: gy12
+    100026: gy123
+    100028: gy124
+    100030: gy125
+    100032: gy126
+    100034: gy127
+    100036: gy128
+    100038: gy129
+    100040: gy13
+    100042: gy130
+    100044: gy131
+    100046: gy132
+    100048: gy133
+    100050: gy134
+    100052: gy14
+    100054: gy15
+    100056: gy169
+    100058: gy170
+    100060: gy173
+    100062: gy175
+    100064: gy176
+    100066: gy178
+    100068: gy18
+    100070: gy180
+    100072: gy183
+    100074: gy184
+    100076: gy188
+    100078: gy189
+    100080: gy191
+    100082: gy193
+    100084: gy194
+    100086: gy195
+    100088: gy196
+    100090: gy21
+    100092: gy212
+    100094: gy24
+    100096: gy253
+    100098: gy27
+    100100: gy30
+    100102: gy33
+    100104: gy36
+    100106: gy38
+    100108: gy39
+    100110: //RootNode
+    100112: Object001
+    100114: Object5865
+    100116: Object5898
+    100118: Object5899
+    100120: Object5900
+    100122: wsj
+    100124: wsj 1
+    100126: wsj 10
+    100128: wsj 11
+    100130: wsj 12
+    100132: wsj 13
+    100134: wsj 14
+    100136: wsj 15
+    100138: wsj 16
+    100140: wsj 17
+    100142: wsj 18
+    100144: wsj 19
+    100146: wsj 2
+    100148: wsj 20
+    100150: wsj 21
+    100152: wsj 22
+    100154: wsj 23
+    100156: wsj 24
+    100158: wsj 25
+    100160: wsj 25_MeshPart0
+    100162: wsj 25_MeshPart1
+    100164: wsj 25_MeshPart2
+    100166: wsj 25_MeshPart3
+    100168: wsj 25_MeshPart4
+    100170: wsj 25_MeshPart5
+    100172: wsj 26
+    100174: wsj 27
+    100176: wsj 28
+    100178: wsj 3
+    100180: wsj 4
+    100182: wsj 5
+    100184: wsj 6
+    100186: wsj 7
+    100188: wsj 8
+    100190: wsj 9
+    100192: wsj001
+    100194: wsj002
+    100196: wsj003
+    100198: xiadele_Box011
+    100200: xiadele_Box012
+    100202: xiadele_Box013
+    100204: xiadele_Box014
+    100206: xiadele_ChamferBox002
+    100208: xiadele_Circle003
+    100210: xiadele_Circle004
+    100212: xiadele_Circle01
+    100214: xiadele_Floor_Object001
+    100216: xiadele_Line006
+    100218: xiadele_Line007
+    100220: xiadele_Line008
+    100222: xiadele_Line009
+    100224: xiadele_Line01
+    100226: xiadele_Line010
+    100228: xiadele_Line011
+    100230: xiadele_Line02
+    100232: xiadele_Line03
+    100234: xiadele_Line07
+    100236: xiadele_Line08
+    100238: xiadele_Plane004
+    100240: xiadele_Plane005
+    100242: xiadele_Rectangle01
+    100244: xoede00
+    100246: xoede01
+    100248: xoede03
+    100250: xoede04
+    100252: xoede05
+    100254: xoede06
+    100256: xoede07
+    100258: xoede08
+    100260: xoede09
+    100262: xoede10
+    100264: xoede11
+    100266: xoede12
+    100268: xoede13
+    100270: xoede14
+    100272: xoede15
+    100274: xoede16
+    100276: xoede17
+    100278: xoede18
+    100280: xoede19
+    400000: 15357-374-754
+    400002: 5-428
+    400004: AM109_027_00
+    400006: Box037
+    400008: ffdd00
+    400010: ffdd01
+    400012: ffdd02
+    400014: gy01
+    400016: gy02
+    400018: gy103
+    400020: gy106
+    400022: gy11
+    400024: gy12
+    400026: gy123
+    400028: gy124
+    400030: gy125
+    400032: gy126
+    400034: gy127
+    400036: gy128
+    400038: gy129
+    400040: gy13
+    400042: gy130
+    400044: gy131
+    400046: gy132
+    400048: gy133
+    400050: gy134
+    400052: gy14
+    400054: gy15
+    400056: gy169
+    400058: gy170
+    400060: gy173
+    400062: gy175
+    400064: gy176
+    400066: gy178
+    400068: gy18
+    400070: gy180
+    400072: gy183
+    400074: gy184
+    400076: gy188
+    400078: gy189
+    400080: gy191
+    400082: gy193
+    400084: gy194
+    400086: gy195
+    400088: gy196
+    400090: gy21
+    400092: gy212
+    400094: gy24
+    400096: gy253
+    400098: gy27
+    400100: gy30
+    400102: gy33
+    400104: gy36
+    400106: gy38
+    400108: gy39
+    400110: //RootNode
+    400112: Object001
+    400114: Object5865
+    400116: Object5898
+    400118: Object5899
+    400120: Object5900
+    400122: wsj
+    400124: wsj 1
+    400126: wsj 10
+    400128: wsj 11
+    400130: wsj 12
+    400132: wsj 13
+    400134: wsj 14
+    400136: wsj 15
+    400138: wsj 16
+    400140: wsj 17
+    400142: wsj 18
+    400144: wsj 19
+    400146: wsj 2
+    400148: wsj 20
+    400150: wsj 21
+    400152: wsj 22
+    400154: wsj 23
+    400156: wsj 24
+    400158: wsj 25
+    400160: wsj 25_MeshPart0
+    400162: wsj 25_MeshPart1
+    400164: wsj 25_MeshPart2
+    400166: wsj 25_MeshPart3
+    400168: wsj 25_MeshPart4
+    400170: wsj 25_MeshPart5
+    400172: wsj 26
+    400174: wsj 27
+    400176: wsj 28
+    400178: wsj 3
+    400180: wsj 4
+    400182: wsj 5
+    400184: wsj 6
+    400186: wsj 7
+    400188: wsj 8
+    400190: wsj 9
+    400192: wsj001
+    400194: wsj002
+    400196: wsj003
+    400198: xiadele_Box011
+    400200: xiadele_Box012
+    400202: xiadele_Box013
+    400204: xiadele_Box014
+    400206: xiadele_ChamferBox002
+    400208: xiadele_Circle003
+    400210: xiadele_Circle004
+    400212: xiadele_Circle01
+    400214: xiadele_Floor_Object001
+    400216: xiadele_Line006
+    400218: xiadele_Line007
+    400220: xiadele_Line008
+    400222: xiadele_Line009
+    400224: xiadele_Line01
+    400226: xiadele_Line010
+    400228: xiadele_Line011
+    400230: xiadele_Line02
+    400232: xiadele_Line03
+    400234: xiadele_Line07
+    400236: xiadele_Line08
+    400238: xiadele_Plane004
+    400240: xiadele_Plane005
+    400242: xiadele_Rectangle01
+    400244: xoede00
+    400246: xoede01
+    400248: xoede03
+    400250: xoede04
+    400252: xoede05
+    400254: xoede06
+    400256: xoede07
+    400258: xoede08
+    400260: xoede09
+    400262: xoede10
+    400264: xoede11
+    400266: xoede12
+    400268: xoede13
+    400270: xoede14
+    400272: xoede15
+    400274: xoede16
+    400276: xoede17
+    400278: xoede18
+    400280: xoede19
+    2300000: 15357-374-754
+    2300002: 5-428
+    2300004: AM109_027_00
+    2300006: Box037
+    2300008: ffdd00
+    2300010: ffdd01
+    2300012: ffdd02
+    2300014: gy01
+    2300016: gy02
+    2300018: gy103
+    2300020: gy106
+    2300022: gy11
+    2300024: gy12
+    2300026: gy123
+    2300028: gy124
+    2300030: gy125
+    2300032: gy126
+    2300034: gy127
+    2300036: gy128
+    2300038: gy129
+    2300040: gy13
+    2300042: gy130
+    2300044: gy131
+    2300046: gy132
+    2300048: gy133
+    2300050: gy134
+    2300052: gy14
+    2300054: gy15
+    2300056: gy169
+    2300058: gy170
+    2300060: gy173
+    2300062: gy175
+    2300064: gy176
+    2300066: gy178
+    2300068: gy18
+    2300070: gy180
+    2300072: gy183
+    2300074: gy184
+    2300076: gy188
+    2300078: gy189
+    2300080: gy191
+    2300082: gy193
+    2300084: gy194
+    2300086: gy195
+    2300088: gy196
+    2300090: gy21
+    2300092: gy212
+    2300094: gy24
+    2300096: gy253
+    2300098: gy27
+    2300100: gy30
+    2300102: gy33
+    2300104: gy36
+    2300106: gy38
+    2300108: gy39
+    2300110: Object001
+    2300112: Object5865
+    2300114: Object5898
+    2300116: Object5899
+    2300118: Object5900
+    2300120: wsj
+    2300122: wsj 1
+    2300124: wsj 10
+    2300126: wsj 11
+    2300128: wsj 12
+    2300130: wsj 13
+    2300132: wsj 14
+    2300134: wsj 15
+    2300136: wsj 16
+    2300138: wsj 17
+    2300140: wsj 18
+    2300142: wsj 19
+    2300144: wsj 2
+    2300146: wsj 20
+    2300148: wsj 21
+    2300150: wsj 22
+    2300152: wsj 23
+    2300154: wsj 24
+    2300156: wsj 25_MeshPart0
+    2300158: wsj 25_MeshPart1
+    2300160: wsj 25_MeshPart2
+    2300162: wsj 25_MeshPart3
+    2300164: wsj 25_MeshPart4
+    2300166: wsj 25_MeshPart5
+    2300168: wsj 26
+    2300170: wsj 27
+    2300172: wsj 28
+    2300174: wsj 3
+    2300176: wsj 4
+    2300178: wsj 5
+    2300180: wsj 6
+    2300182: wsj 7
+    2300184: wsj 8
+    2300186: wsj 9
+    2300188: wsj001
+    2300190: wsj002
+    2300192: wsj003
+    2300194: xiadele_Box011
+    2300196: xiadele_Box012
+    2300198: xiadele_Box013
+    2300200: xiadele_Box014
+    2300202: xiadele_ChamferBox002
+    2300204: xiadele_Circle003
+    2300206: xiadele_Circle004
+    2300208: xiadele_Circle01
+    2300210: xiadele_Floor_Object001
+    2300212: xiadele_Line006
+    2300214: xiadele_Line007
+    2300216: xiadele_Line008
+    2300218: xiadele_Line009
+    2300220: xiadele_Line01
+    2300222: xiadele_Line010
+    2300224: xiadele_Line011
+    2300226: xiadele_Line02
+    2300228: xiadele_Line03
+    2300230: xiadele_Line07
+    2300232: xiadele_Line08
+    2300234: xiadele_Plane004
+    2300236: xiadele_Plane005
+    2300238: xiadele_Rectangle01
+    2300240: xoede00
+    2300242: xoede01
+    2300244: xoede03
+    2300246: xoede04
+    2300248: xoede05
+    2300250: xoede06
+    2300252: xoede07
+    2300254: xoede08
+    2300256: xoede09
+    2300258: xoede10
+    2300260: xoede11
+    2300262: xoede12
+    2300264: xoede13
+    2300266: xoede14
+    2300268: xoede15
+    2300270: xoede16
+    2300272: xoede17
+    2300274: xoede18
+    2300276: xoede19
+    3300000: 15357-374-754
+    3300002: 5-428
+    3300004: AM109_027_00
+    3300006: Box037
+    3300008: ffdd00
+    3300010: ffdd01
+    3300012: ffdd02
+    3300014: gy01
+    3300016: gy02
+    3300018: gy103
+    3300020: gy106
+    3300022: gy11
+    3300024: gy12
+    3300026: gy123
+    3300028: gy124
+    3300030: gy125
+    3300032: gy126
+    3300034: gy127
+    3300036: gy128
+    3300038: gy129
+    3300040: gy13
+    3300042: gy130
+    3300044: gy131
+    3300046: gy132
+    3300048: gy133
+    3300050: gy134
+    3300052: gy14
+    3300054: gy15
+    3300056: gy169
+    3300058: gy170
+    3300060: gy173
+    3300062: gy175
+    3300064: gy176
+    3300066: gy178
+    3300068: gy18
+    3300070: gy180
+    3300072: gy183
+    3300074: gy184
+    3300076: gy188
+    3300078: gy189
+    3300080: gy191
+    3300082: gy193
+    3300084: gy194
+    3300086: gy195
+    3300088: gy196
+    3300090: gy21
+    3300092: gy212
+    3300094: gy24
+    3300096: gy253
+    3300098: gy27
+    3300100: gy30
+    3300102: gy33
+    3300104: gy36
+    3300106: gy38
+    3300108: gy39
+    3300110: Object001
+    3300112: Object5865
+    3300114: Object5898
+    3300116: Object5899
+    3300118: Object5900
+    3300120: wsj
+    3300122: wsj 1
+    3300124: wsj 10
+    3300126: wsj 11
+    3300128: wsj 12
+    3300130: wsj 13
+    3300132: wsj 14
+    3300134: wsj 15
+    3300136: wsj 16
+    3300138: wsj 17
+    3300140: wsj 18
+    3300142: wsj 19
+    3300144: wsj 2
+    3300146: wsj 20
+    3300148: wsj 21
+    3300150: wsj 22
+    3300152: wsj 23
+    3300154: wsj 24
+    3300156: wsj 25_MeshPart0
+    3300158: wsj 25_MeshPart1
+    3300160: wsj 25_MeshPart2
+    3300162: wsj 25_MeshPart3
+    3300164: wsj 25_MeshPart4
+    3300166: wsj 25_MeshPart5
+    3300168: wsj 26
+    3300170: wsj 27
+    3300172: wsj 28
+    3300174: wsj 3
+    3300176: wsj 4
+    3300178: wsj 5
+    3300180: wsj 6
+    3300182: wsj 7
+    3300184: wsj 8
+    3300186: wsj 9
+    3300188: wsj001
+    3300190: wsj002
+    3300192: wsj003
+    3300194: xiadele_Box011
+    3300196: xiadele_Box012
+    3300198: xiadele_Box013
+    3300200: xiadele_Box014
+    3300202: xiadele_ChamferBox002
+    3300204: xiadele_Circle003
+    3300206: xiadele_Circle004
+    3300208: xiadele_Circle01
+    3300210: xiadele_Floor_Object001
+    3300212: xiadele_Line006
+    3300214: xiadele_Line007
+    3300216: xiadele_Line008
+    3300218: xiadele_Line009
+    3300220: xiadele_Line01
+    3300222: xiadele_Line010
+    3300224: xiadele_Line011
+    3300226: xiadele_Line02
+    3300228: xiadele_Line03
+    3300230: xiadele_Line07
+    3300232: xiadele_Line08
+    3300234: xiadele_Plane004
+    3300236: xiadele_Plane005
+    3300238: xiadele_Rectangle01
+    3300240: xoede00
+    3300242: xoede01
+    3300244: xoede03
+    3300246: xoede04
+    3300248: xoede05
+    3300250: xoede06
+    3300252: xoede07
+    3300254: xoede08
+    3300256: xoede09
+    3300258: xoede10
+    3300260: xoede11
+    3300262: xoede12
+    3300264: xoede13
+    3300266: xoede14
+    3300268: xoede15
+    3300270: xoede16
+    3300272: xoede17
+    3300274: xoede18
+    3300276: xoede19
+    4300000: gy01
+    4300002: gy02
+    4300004: gy103
+    4300006: gy106
+    4300008: gy123
+    4300010: gy124
+    4300012: gy125
+    4300014: gy126
+    4300016: gy127
+    4300018: gy128
+    4300020: gy129
+    4300022: gy130
+    4300024: gy131
+    4300026: gy132
+    4300028: gy133
+    4300030: gy134
+    4300032: gy169
+    4300034: gy170
+    4300036: gy173
+    4300038: gy175
+    4300040: gy176
+    4300042: gy178
+    4300044: gy180
+    4300046: gy183
+    4300048: gy184
+    4300050: gy188
+    4300052: gy189
+    4300054: gy191
+    4300056: gy193
+    4300058: gy194
+    4300060: gy195
+    4300062: gy196
+    4300064: gy212
+    4300066: gy11
+    4300068: gy12
+    4300070: gy13
+    4300072: gy14
+    4300074: gy15
+    4300076: gy18
+    4300078: gy21
+    4300080: gy24
+    4300082: gy27
+    4300084: gy30
+    4300086: gy33
+    4300088: gy36
+    4300090: gy38
+    4300092: gy39
+    4300094: Object5865
+    4300096: AM109_027_00
+    4300098: ffdd01
+    4300100: ffdd00
+    4300102: ffdd02
+    4300104: xiadele_Floor_Object001
+    4300106: xiadele_ChamferBox002
+    4300108: Object001
+    4300110: gy253
+    4300112: Object5898
+    4300114: xoede00
+    4300116: xoede01
+    4300118: xoede03
+    4300120: xoede04
+    4300122: xoede05
+    4300124: xoede06
+    4300126: xoede07
+    4300128: xoede08
+    4300130: xoede09
+    4300132: xoede10
+    4300134: xoede11
+    4300136: xoede12
+    4300138: xoede13
+    4300140: xoede14
+    4300142: xoede15
+    4300144: xoede16
+    4300146: xoede17
+    4300148: xoede18
+    4300150: xoede19
+    4300152: Box037
+    4300154: 15357-374-754
+    4300156: 5-428
+    4300158: Object5899
+    4300160: xiadele_Plane004
+    4300162: xiadele_Box011
+    4300164: xiadele_Box012
+    4300166: xiadele_Line006
+    4300168: xiadele_Line007
+    4300170: xiadele_Circle003
+    4300172: xiadele_Line008
+    4300174: xiadele_Line02
+    4300176: xiadele_Line01
+    4300178: xiadele_Line07
+    4300180: xiadele_Line03
+    4300182: xiadele_Line08
+    4300184: xiadele_Circle01
+    4300186: xiadele_Rectangle01
+    4300188: xiadele_Line009
+    4300190: xiadele_Plane005
+    4300192: xiadele_Box013
+    4300194: xiadele_Box014
+    4300196: xiadele_Line010
+    4300198: xiadele_Circle004
+    4300200: xiadele_Line011
+    4300202: wsj
+    4300204: wsj
+    4300206: wsj
+    4300208: wsj
+    4300210: wsj
+    4300212: wsj
+    4300214: wsj
+    4300216: wsj
+    4300218: wsj
+    4300220: wsj
+    4300222: wsj
+    4300224: wsj
+    4300226: wsj
+    4300228: wsj
+    4300230: wsj
+    4300232: wsj
+    4300234: wsj
+    4300236: wsj
+    4300238: wsj
+    4300240: wsj_MeshPart0
+    4300242: wsj_MeshPart1
+    4300244: wsj_MeshPart2
+    4300246: wsj_MeshPart3
+    4300248: wsj_MeshPart4
+    4300250: wsj_MeshPart5
+    4300252: wsj
+    4300254: wsj
+    4300256: wsj
+    4300258: wsj
+    4300260: wsj
+    4300262: wsj
+    4300264: wsj
+    4300266: wsj
+    4300268: wsj
+    4300270: wsj001
+    4300272: wsj002
+    4300274: wsj003
+    4300276: Object5900
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
